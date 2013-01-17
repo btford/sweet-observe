@@ -1,5 +1,5 @@
 # Sweet Observe
-Using [Sweet.js](http://sweetjs.org) macros to get change object change lists for methods inside of a prototype.
+Using [Sweet.js](http://sweetjs.org) macros to get object property change lists for methods inside of a prototype.
 
 ## Compile
 Must be compiled with SweetJS. Install via npm:
